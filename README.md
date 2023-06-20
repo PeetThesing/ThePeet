@@ -5,8 +5,10 @@
 ## 👩🏻‍💻 I'm currently becoming a web-developer.
 
 ## 🛼 I'm also a Roller Derby skater.
+This is Roller Derby.
 
 ![Roller Derby gif](readme.gif)
+
 What do you learn in Roller Derby?
 - Try
 - Fail
