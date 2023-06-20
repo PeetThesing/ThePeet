@@ -1,7 +1,7 @@
 # Willkommen bei ThePeet
-I'm a Roller Derby skater.
+I'm a Roller Derby skater. 🛼
 
-[Roller Derby gif](https://i.gifer.com/GKCS.gif)
+![Roller Derby gif](readme.gif)
 
 - Try
 - Fail
