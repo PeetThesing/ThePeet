@@ -1,3 +1,9 @@
 # Willkommen bei ThePeet
-I'm a Roller Derby skater and a feminist self-defense Teacher for preventing violence against women and girls. 
+I'm a Roller Derby skater.
+
 [Roller Derby gif](https://i.gifer.com/GKCS.gif)
+
+- Try
+- Fail
+- Get Up again
+- Hit someone else
