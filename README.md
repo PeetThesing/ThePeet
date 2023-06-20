@@ -1,2 +1,2 @@
 # Willkommen bei ThePeet
-Hier gibt es alle Infos.
+I'm a Roller Derby skater and a feminist self-defense Teacher for preventing violence against women and girls. 
