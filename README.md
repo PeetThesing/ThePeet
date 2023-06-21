@@ -7,7 +7,7 @@
 This means learning HTML, CSS, JavaScript and a lot more.
 
 ## ✊🏻 I'm a trainer for feminist self defense. 
-![A Reader](https://wendo-marburg.de/files/Wendo-Dateien/Bilder/Vorderansicht_Leitfaden%20Nein%20hei%C3%9Ft%20Nein%20Wendo%20Marburg.jpg) Wendo stands for * Women Do it! * and the goal is to prevent violence against women and girls.
+Wendo stands for * Women Do it! * and the goal is to prevent violence against women and girls.
 It's not martial arts, but a concept which takes the conditions of growing up as women and girls into account and empowers in everyday life.
 
 ## 🛼 I'm also a Roller Derby skater.
