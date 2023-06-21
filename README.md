@@ -1,5 +1,5 @@
-# Welcome on my Profil-Page
-✨ Its nice to meet you here. I'll tell you important and unimportant stuff about m
+# ✨ Hi! Welcome!
+Its nice to meet you here. I'll tell you important and unimportant stuff about me.
 
 ## 👩🏻‍💻 I'm currently becoming a web-developer.
 <img src="angry-cat.gif"  width="15%" height="15%">
